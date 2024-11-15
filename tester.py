@@ -1,6 +1,6 @@
 import geo.utils as utils
 
-a = 3,4
+a,b = 3,4
 c= utils.pythagorass(a,b)
 print('c =',c)
 
