@@ -6,4 +6,4 @@ def pythagorass(a,b):
 
 def circle(r):
     area = math.pi * r**2
-    retrun area
+    return area
